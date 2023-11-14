@@ -1,0 +1,99 @@
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.exe
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.deps.json
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.runtimeconfig.json
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.pdb
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos Test\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.AssemblyReference.cache
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.Form1.resources
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.GenerateResource.cache
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.AssemblyInfoInputs.cache
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.AssemblyInfo.cs
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.CoreCompileInputs.cache
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.CopyComplete
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.dll
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\refint\MemoTest.dll
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.pdb
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.genruntimeconfig.cache
+D:\Proyectos Test\MemoTest\MemoTest\obj\Debug\net6.0-windows\ref\MemoTest.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.exe
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.deps.json
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.runtimeconfig.json
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.pdb
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.AssemblyReference.cache
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.GenerateResource.cache
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.AssemblyInfoInputs.cache
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.AssemblyInfo.cs
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.CoreCompileInputs.cache
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.CopyComplete
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\refint\MemoTest.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.pdb
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.genruntimeconfig.cache
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\ref\MemoTest.dll
+C:\Users\sebap\Desktop\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.Menu.resources
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.AssemblyReference.cache
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.Form1.resources
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.Game.resources
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.Menu.resources
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.GenerateResource.cache
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.AssemblyInfoInputs.cache
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.AssemblyInfo.cs
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.CoreCompileInputs.cache
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\refint\MemoTest.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.pdb
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.exe
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.deps.json
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.runtimeconfig.json
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\MemoTest.pdb
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.csproj.CopyComplete
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.genruntimeconfig.cache
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\ref\MemoTest.dll
+C:\Users\sebap\Desktop\Parcial_2_Prog_2\MemoTest\MemoTest\obj\Debug\net6.0-windows\MemoTest.GameHard.resources
